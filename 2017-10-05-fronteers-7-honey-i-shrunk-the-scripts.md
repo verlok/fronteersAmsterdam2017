@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Honey, Shrunk the Scripts - Flaki - Fronteers Amsterdam 2017
+title: Honey, I Shrunk the Scripts - Flaki - Fronteers Amsterdam 2017
 date: 2017-10-05 18:00:00 +01:00
 categories:
 - conferences
