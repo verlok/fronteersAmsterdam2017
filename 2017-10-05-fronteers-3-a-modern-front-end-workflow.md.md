@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A modern front-end workflow - Umar Hansa - Front-trends Warsaw 2017
+title: A modern front-end workflow - Umar Hansa - Fronteers Amsterdam 2017
 date: 2017-10-05 18:00:00 +01:00
 categories:
 - conferences

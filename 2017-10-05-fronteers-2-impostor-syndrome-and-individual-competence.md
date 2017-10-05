@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Impostor Syndrome And Individual competence - Jessica Rose - Front-trends Warsaw 2017
+title: Impostor Syndrome And Individual competence - Jessica Rose - Fronteers Amsterdam 2017
 date: 2017-10-05 18:00:00 +01:00
 categories:
 - conferences
